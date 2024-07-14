@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nova
-- 👀 I’m interested in VRChat CLients / Data Files
+- 👀 I’m interested in VRChat Clients / Data Files
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Disc. novacandy36555
