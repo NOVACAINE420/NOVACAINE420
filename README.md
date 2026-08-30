@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Nova
-- 👀 I’m interested in VRChat Clients / Data Files
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Disc. novacandy36555
-- 😄 Pronouns: any
-- ⚡ Fun fact: 13 Perma Bans on Vrchat
+Hello, Im Starz. A fellow VRC Client Dev! 
+Im a developer for the newest client, Pawb Client
 
-<!---
-NOVACAINE420/NOVACAINE420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can join our discord here: discord.gg/pawbs
+
+If you have any questions, dm me on discord: sl94 OR 0oik
